@@ -13,3 +13,4 @@
 
 **Informações Importantes:**
 - [Responsabilidades dos Times](https://drive.google.com/file/d/1Ek0MS5b7hcyxmP11AJ3nwosz3kHKB2g_/view?usp=sharing)
+- [Boas Práticas](https://drive.google.com/file/d/1hV6t8TZ29RqOmmJICDP1w7CLrcj-DTFN/view?usp=sharing)
