@@ -10,3 +10,6 @@
 ![10](https://github.com/DevsFreeOrg/.github/assets/108367675/3167145d-733c-4a6e-a215-c2139c92448a)
 ![11](https://github.com/DevsFreeOrg/.github/assets/108367675/a182403f-e768-4bb3-a985-c35bab198a09)
 ![12](https://github.com/DevsFreeOrg/.github/assets/108367675/896ec97f-a7d2-420b-840a-f88d30827f84)
+
+**Informações Importantes:**
+- [Responsabilidades dos Times](https://drive.google.com/file/d/1Ek0MS5b7hcyxmP11AJ3nwosz3kHKB2g_/view?usp=sharing)
